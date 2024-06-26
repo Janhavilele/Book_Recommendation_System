@@ -5,7 +5,7 @@ Model will find appropriate book to read next based on his interest using  Neare
 _**Steps :**_
 
 **1) Data Collection :**
-Download the dataset from kaggle which contains 3 csv files namely Books.csv, Users.csv, Ratings.csv.
+Download the dataset from kaggle (https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset) which contains 3 csv files namely Books.csv, Users.csv, Ratings.csv.
 
 **2) Data Cleaning :**
 - Consider those users who give minimum 200 ratings and remove other.
